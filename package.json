@@ -1,0 +1,23 @@
+{
+  "name": "express-basics2-cw-db225",
+  "version": "1.0.0",
+  "description": "### Create an Express web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2019-spring/express-basics2-cw-DB225.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2019-spring/express-basics2-cw-DB225/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2019-spring/express-basics2-cw-DB225#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
